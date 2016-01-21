@@ -1,3 +1,7 @@
+#elem{
+    background:url('kermit.jpg') center center no-repeat;
+    background-size:100px 150px;
+}
 body {
     margin: 60px auto;
     width: 70%;
